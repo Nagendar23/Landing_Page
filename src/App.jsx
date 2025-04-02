@@ -18,8 +18,7 @@ function App() {
     <>
       <div className="flex flex-col justify-center items-center text-center bg-black text-white pt-[4.75rem] lg:pt-[5.25rem] min-h-screen w-full overflow-hidden">
         <Router>
-        console.log("Image URL:", service2);
-
+          
           <Header />
           <Hero />
           <Benefits />
